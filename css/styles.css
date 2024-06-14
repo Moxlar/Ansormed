@@ -80,8 +80,18 @@ margin-right: 32px;
 }
 .hero{
    background-color: rgba(14, 180, 193, 1);
+   color: #fff;
    width: 1140px;
    height: 533px;
+}
+.hero-content{
+    padding-top: 120px;
+    padding-bottom: 120px;
+    width: 500px;
+}
+.hero-heading{
+    margin-top: 0;
+
 }
 .main-link{
     text-decoration: none;
