@@ -95,7 +95,7 @@ margin-right: 32px;
 .hero-heading{
     margin-top: 0;
     margin-bottom: 16px;
-    font-family: "Open Sans Condensed", "Open Sans","Arial", sans-serif;
+    font-family:"Open Sans","Arial", sans-serif;
     font-size: 36px;
     line-height: 1.2;
 }
@@ -118,7 +118,7 @@ margin-right: 32px;
     border: solid 2px transparent;
     border-radius: 8px;
     font-size: 15px;
-    font-family: "Open Sans Condensed","Arial",sans-serif ;
+    font-family: "Arial",sans-serif ;
     color: #fff;
     background-color:#DE2E54;
     text-transform: uppercase;
@@ -161,7 +161,7 @@ margin-right: 32px;
     margin-top: 0;
     margin-bottom: 56px;
     text-align: center;
-    font-family:"Open Sans Condensed","Arial",sans-serif;
+    font-family:"Arial",sans-serif;
     font-size: 36px;
     line-height: 1.2;
     color: #000;
